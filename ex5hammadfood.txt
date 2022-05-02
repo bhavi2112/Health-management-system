@@ -1,0 +1,1 @@
+[datetime.datetime(2021, 6, 29, 13, 58, 4, 722149)]:1 plate rice
